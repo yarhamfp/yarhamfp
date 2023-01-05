@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**yarhamfp/yarhamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yarhamfp&show_icons=true&theme=github_dark&count_private=true" />
+  </a>
+</div>
+<br/>
+<div>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarhamfp&theme=github_dark&hide=jupyter%20notebook%2Ccss" />
+  </a>
+</div>
