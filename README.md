@@ -6,6 +6,6 @@
 <!-- <br/> -->
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarhamfp&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarhamfp&layout=compact&theme=github_dark" />
   </a>
 </div>
